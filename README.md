@@ -49,3 +49,15 @@ Crie uma conta pelo site. No phpMyAdmin, acesse a tabela usuarios e altere o cam
 O projeto possui finalidade acadêmica. Os preços, estoques e pagamentos são simulados.
 
 Senac — 2026.
+
+## Recursos implementados
+
+- Integração com o banco de dados por meio do PDO.
+- Configurações de conexão armazenadas no arquivo .env.
+- Armazenamento seguro e verificação de senhas.
+- Gerenciamento do carrinho através de sessões PHP.
+- Processamento de pedidos com transações no banco de dados.
+- Cadastro, consulta, edição e exclusão de produtos.
+- Painel administrativo com acesso restrito.
+- Interatividade e validações com JavaScript.
+- Controle de versões e publicação pelo Git e GitHub.
