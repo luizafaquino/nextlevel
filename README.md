@@ -40,6 +40,18 @@ O site permite a compra simulada de teclados, mouses, headsets e mousepads, alé
 5. Crie o arquivo .env utilizando o .env.example como modelo.
 6. Acesse http://localhost/nextlevel/.
 
+## Desenvolvimento da loja
+
+Inicialmente, foi planejada uma loja voltada para o público gamer, com quatro categorias de produtos: teclados, mouses, headsets e mousepads.
+
+A interface foi desenvolvida com um visual escuro, menu lateral e catálogo com opções de pesquisa e ordenação. Com a estrutura do banco de dados pronta, foram implementadas as funcionalidades de cadastro, login, carrinho e finalização de compras.
+
+Na parte administrativa, foram desenvolvidos recursos para gerenciar os produtos, acompanhar os pedidos e controlar o estoque.
+
+Por fim, foram realizados testes para verificar o funcionamento da loja e das validações em JavaScript.
+
+Este relato foi acrescentado após a implementação do sistema para registrar seu processo de construção.
+
 ## Acesso administrativo
 
 Crie uma conta pelo site. No phpMyAdmin, acesse a tabela usuarios e altere o campo tipo da conta para admin. Depois, realize o login novamente.
